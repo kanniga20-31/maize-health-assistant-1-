@@ -1,0 +1,6 @@
+{
+  "name": "Maize Health Assistant",
+  "description": "Farmer-friendly AI application for maize crop disease detection, localization, and dual organic/chemical management based on LightET-FusionNet.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
